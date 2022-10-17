@@ -1,0 +1,12 @@
+{
+  "author": "olalinv",
+  "description": "Browser APIs Utils",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-prettier": "^8.5.0",
+    "jsdoc": "^3.6.11",
+    "prettier": "^2.7.1"
+  },
+  "license": "MIT",
+  "name": "browser-apis-utils"
+}

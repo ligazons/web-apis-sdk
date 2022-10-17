@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+
+.*
+!.*.js
+!.prettierrc
+
+.*/
+
+*.md
